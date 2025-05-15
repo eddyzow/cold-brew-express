@@ -1,0 +1,70 @@
+hack club highway journal entry 1 (5/15/25)
+# introducing the cold brew express: an extremely overengineered custom e-scooter that lets me go get coffee whenever i want!
+
+my goal is to create a modernized e-scooter that is powerful enough to travel 10+ mph and lasts long enough for me to make the 2.5 mile trip to the nearest dunkin’ and back. it will be similar to lime/bird scooters that you find in cities, except it will have some crazy features, including but not limited to the below (i anticipate that i won’t be able to do about half of these due to time/budget constraints):
+
+- automatic start up to cruising speed upon kick off the ground  
+- speed controlled via two buttons on either side of the handlebars. press the throttle on the right side to accelerate, press left side to brake  
+- press a button to toggle cruise control. during cruise control, an IMU detects for if the scooter is leaning and disengages the autopilot for safety purposes  
+- bright LED lights on the front, back, deck, and handlebars of the scooter for riding at night. deck lights will be RGB and controlled by a microcontroller :)  
+- telemetry readings all over the scooter, taking data like temperature, speed, battery, miles, etc, fed to an LED/OLED display located on the front driven by an ESP32 microcontroller  
+- camera module w/sd card to record trips on the scooter  
+- bluetooth support to play music to my airpods directly from the scooter  
+- ability to wirelessly charge my phone on the dashboard  
+- tactile feedback - handlebars vibrate when braking/accelerating  
+- cup holder for dunkin  
+- GPS???  
+
+## rough BOM:
+
+- 500-750w brushless hub motor: $70  
+- front wheel (rear wheel is attached to the hub motor): $25  
+- esc (flipsky vesc 4.2): $50  
+- battery pack w/charger (36/48v, 7 ah): $80  
+- esp32 CAM microcontroller w/ IR filter ($10)  
+- 4 inch display ($15)  
+- LED lights (strips + light for head/tail) $20  
+- vibration motors ($5)  
+- IMU sensor (LSM6DSOX or MPU6050 or BNO055) about $10  
+- microsd: $10  
+- wireless charging module: $10  
+- housing  
+- plywood base $20  
+- aluminum tubing for support columns and handlebars: $25  
+- wires, connectors, switches, nuts, bolts, etc: $20  
+
+**TOTAL: $370\***
+
+\*i fully intend to pay surplus costs out of pocket because i think the cost of this project will exceed $350
+
+as you can see some of these parts are a little pricey… even the core necessities of the scooter cost more than the normal project budget of $150, hence why i believe this falls under the advanced project category.
+
+## design plan:
+
+- research parts and draw inspiration from real electric scooters. identify common escs/batteries/motors for scooters like this one  
+- CAD chassis in onshape (plywood deck, aluminum tube supports, handlebars, component layout). ensure parts fit inside enclosure and draw diagrams  
+- ensure parts are compatible with each other. voltage compatibility between battery, esc, motor, sensors, and microcontroller, and communication compatibility between sensors and microcontroller  
+- design interior layout so that the ESP32 is at the front (hence its camera can be utilized)  
+
+## build plan:
+
+- mechanical assembly. CNC plywood deck, assemble aluminum tubing, drill necessary holes, put enclosure together for the most part, install wheels and hub motor.  
+- electrical assembly: lights  
+- microcontroller system: wire up microcontroller, connect to various sensors, SPI protocol, configure display, etc  
+- features: configure camera to save video clips to sd card, record trip stats, control special lighting, wireless charging, etc  
+- weatherproofing: seal enclosures with silicone  
+- finally paint the entire thing so that it sports a nice orange and purple color scheme, after my favorite coffee chain :) throw some stickers on and personalize it  
+- test ride!! and then take it to dunkin for a nice iced coffee on a hot summer day  
+
+## challenges:
+
+- materials materials materials. metal is expensive and i need to figure out how to optimize the cost of materials for this project without building something dangerous. i’m leaning towards a strong plywood for the base board and metal support bars/steering column for stability. my FTC robotics workshop has a CNC machine that I can use to cut my parts.  
+- deciding what motor to use (a BLDC for sure), and figuring how to manage an ESC (i’ve only ever worked with brushed motors)  
+- figuring out suspension. i did some research and apparently some scooters don’t have a suspension? but also that using springs to damp some impacts provides for a smoother ride experience  
+- i’m not very experienced with electrical work at this level – a vehicle that is powerful enough to carry a human will require an energy current of several amps (or more!) and the battery capacity will need to be ample. good thing my dad is an electrical engineer  
+- figuring how how to accel curves so that when starting up and braking i am not thrown off the scooter (this would be very bad)  
+- i live in new england ☠️ so i need to make sure the scooter doesn’t explode whether it’s 0 or 100 degrees (F) outside  
+- waterproofing the housing so that the scooter is resistant to rain  
+- according to massachusetts law i must ride the scooter at a max speed of 15 mph and i need a learner’s permit or a license (whoops im 18 and dont have my license yet 💀)  
+
+i have past experience building robots for FTC and science olympiad – this is taking my love for motorized things to the next level :). it is now 3:30 am and i will sleep because i have school tomorrow.
