@@ -1,5 +1,27 @@
-hack club highway journal entry 1 (5/15/25)
-# introducing the cold brew express: an extremely overengineered custom e-scooter that lets me go get coffee whenever i want!
+# hack club highway journal entry 2 (5/16/25)
+## APPROVED!!
+the cold brew express has been approved! i just need to send in a design before i receive my parts. i will get more highway points if i make a project that actually drives!!
+
+i've changed the BOM and feature list to better reflect my hardware knowledge + exact parts i will be getting:
+- 36V 500W brushless DC hub motor with wheel and tire included: $104
+- 36V 500W motor controller: $35
+- 36V 10 amp-hour lithium-ion battery with 30A BMS: $94
+- front free-turning wheel and tire: $30
+- accessories (i.e. throttle, brake, switches, buttons): about $25
+- wires and connectors: about $10
+- led 2/4 line display: $10
+- rgb light strip/lights: $15
+- plywood base: $20
+- pvc tubing / wheel forks: $30
+
+i've also begun to create an onshape CAD file for the scooter. i've consulted diagrams of other commercial scooters on the market for inspiration. also many of the parts i'm using have little documentation and no cad files, so i have to make or represent my own objects. here's a picture so far:
+
+![image](https://github.com/user-attachments/assets/b05c78d9-b11b-47cf-ad97-f4d6f91caa09)
+
+no handlebars yet. i am currently hollowing out the bottom of the deck of the scooter so that it can hold the motor controller and battery. 
+
+# hack club highway journal entry 1 (5/15/25)
+## introducing the cold brew express: an extremely overengineered custom e-scooter that lets me go get coffee whenever i want!
 
 my goal is to create a modernized e-scooter that is powerful enough to travel 10+ mph and lasts long enough for me to make the 2.5 mile trip to the nearest dunkin’ and back. it will be similar to lime/bird scooters that you find in cities, except it will have some crazy features, including but not limited to the below (i anticipate that i won’t be able to do about half of these due to time/budget constraints):
 
