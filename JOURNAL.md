@@ -1,3 +1,19 @@
+total time spent (research, development, design, building, etc): approx. 10 hours
+
+# hack club highway journal entry 3 (5/17/25)
+## cad updates + more!
+
+![image](https://github.com/user-attachments/assets/2999456b-8d38-42ac-99ac-2df16af9d259)
+
+i haven't cadded any special parts yet, like suspension, forks, etc. i think i'll forgo the suspension because apparently all the easy-to-attach suspension forks are for 10-inch wheels, and this scooter is going to have 8-inch wheels. i'll use PVC pipe instead of metal since it's easier to work with.
+the part of the deck that the rider stands on is bolted to the battery and controller holder with eight 4mm gobilda screws. i hope this will be enough support.
+
+i've learned that handlebars are angled approx. 83 degrees to the ground, so i have it turned that way.
+
+also, i think i'll actually be 3d printing some parts, such as the fenders for the wheels. i just need to buy some flex seal to waterproof it. i might need to cad forks too, but then my concern is that the forks are not strong enough when 3D printed -- i don't have machine shop knowledge to make custom aluminum forks for my scooter.
+
+i have a full weekend to work, so hopefully i can finish the design soon and get building!
+
 # hack club highway journal entry 2 (5/16/25)
 ## APPROVED!!
 the cold brew express has been approved! i just need to send in a design before i receive my parts. i will get more highway points if i make a project that actually drives!!
