@@ -1,4 +1,15 @@
-total time spent (research, development, design, building, etc): approx. 10 hours
+total time spent (research, development, design, building, etc): approx. 14 hours
+
+# hack club highway journal entry 4 (5/17/25)
+## it's coming together!
+
+![image](https://github.com/user-attachments/assets/bb163a51-e082-4fea-97b2-98c2637f1958)
+
+as you can see, i've designed many of the parts for the scooter, including the fender and neck / head tube for holding the handlebars. i will purchase a clamp separately to ensure that the handlebars can only turn left-right and cannot move up and down. the last thing i will need to CAD is the suspension fork and then i'll be all set! since i don't know how to produce these parts and i don't necessarily have access to machining tools (my robotics team has a CNC but i don't know how to fabricate the parts more complex than just sheets of metal) i'll be 3D printing them since i'm more familiar with that. 
+
+wires will be fed from my various accessories through the crossbar into the down tube, then through the head tube/neck into the deck. and i will need to secure everything using foam for the interior electronics, screws, and lots of flex seal.
+
+from end to end the scooter is approximately 3.5 ft (1075mm) long and 3 feet (900mm) tall. i came to this value through research on what the typical scooter looks like. i think that i might be able to actually submit this for review after tonight since much of the work is done after the design has already been submitted!
 
 # hack club highway journal entry 3 (5/17/25)
 ## cad updates + more!
