@@ -1,5 +1,12 @@
-total time spent (research, development, design, building, etc): approx. 21 hours
+# hack club highway project 1: the cold brew express - a diy electric scooter to take me to dunkin'
+_can i get a medium raspberry watermelon refresher with sparkling water instead of green tea?_
+
+start date: 5/14/2025
+
+total time spent so far: (research, development, design) not including building: approx. 21 hours
 (yes this is an average of like 7 hours a day)
+
+since the design is such a small part of this project in comparison to actually putting the scooter together, i will be receiving 6 points for the design and 4 points for creating a working version!
 
 # hack club highway journal entry 6 (5/18/25)
 ## cad done!
@@ -18,6 +25,8 @@ inside are the battery and controller, which will be mounted in foam. the wires 
 in the front is a suspension fork that will give the scooter a smoother ride. the display will be a standard 4 line character LCD instead of a full-fledged TFT display since i realized i will need to work with some extremely complicated electronics that i don't have the experience for at the moment. the arduino will also be mounted in the bottom of the scooter. i'm going to need some long ass jumper wires LMFAO
 
 i still don't know how fast the scooter will get, but i'm hoping that it will do 15mph. 
+
+i'll now be submitting this to the hack club overlords and going off to continue my neighborhood game!
 
 # hack club highway journal entry 5 (5/17/25)
 ## cad almost done
