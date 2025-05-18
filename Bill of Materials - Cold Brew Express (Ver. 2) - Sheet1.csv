@@ -1,0 +1,23 @@
+Bill of Materials / Cold Brew Express,,,,,,
+Eddy Zhao,,,,,,
+Version 2.0 - 18 May 2025,,,,,,
+,,,,,,
+Item Name,Purpose,Item Source,Quantity,Unit Cost (includes taxes),Cost,Notes
+36V 500W 8-Inch Brushless Scooter Hub Motor,Scooter propulsion + back wheel,Amazon,1,$109.76,$109.76,
+Brushless Motor Controller 36V 500W 25A,Scooter motion control,Amazon,1,$37.18,$37.18,
+36V 10AH Battery,Scooter power,Amazon,1,$99.91,$99.91,
+8-Inch Pneumatic Scooter Wheel,Scooter front wheel (free-spinning),Amazon,1,$27.61,$27.61,
+8mm x 150mm Steel Rod,Axle for scooter front wheel,Amazon,1,$6.37,$6.37,
+Throttle Accessory,To control motor acceleration,Amazon,1,$9.45,$9.45,
+14-Inch Suspension Fork,For suspension + to connect handlebars to front wheel,Amazon,1,$37.50,$37.50,
+37mm Headset Bearings,To make turning handlebars smoother,Amazon,1,$10.63,$10.63,
+4-Line I2C LCD Display (3),"For visual feedback of speed, battery, other telemetry, etc.",Amazon,1,$17.87,$17.87,better value than a 1-pack + just in case something goes wrong
+Flex Seal,Waterproofing housing of the scooter for rain,Home Depot,1,$15.92,$15.92,
+Variable PVC Pipe,PVC pipe for handlebars and main steering column,Home Depot,1,$21.25,$21.25,
+Variable Plywood,Plywood for base of the scooter + housing of battery and controller,Home Depot,1,$21.25,$21.25,
+Wires and Connectors,For wiring electronic components to the microcontroller,Amazon,1,$10.63,$10.63,"primarily JST-SM connectors, jumper wires, bullet-spade connectors. will purchase as needed"
+"Screws, Nuts, Bolts",For assembling the components of the scooter together,Home Depot,1,$10.63,$10.63,
+TOTAL,,,14,$435.96,$435.96,
+,,,,,,
+"I already own some necessary parts for this project (arduino, etc) - these are not included in the BOM!",,,,,,
+I will also gladly pay any surplus costs above the grant amount!,,,,,,
