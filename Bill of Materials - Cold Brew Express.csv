@@ -1,0 +1,23 @@
+Bill of Materials / Cold Brew Express,,,,
+Eddy Zhao,,,,
+Version 1.0 - 18 May 2025,,,,
+,,,,
+Item,Quantity,Unit Cost,Cost,Notes
+36V 500W 8-Inch Brushless Scooter Hub Motor,1,$103.30,$103.30,
+Brushless Motor Controller 36V 500W 25A,1,$34.99,$34.99,
+36V 10AH Battery,1,$94.03,$94.03,
+8-Inch Pneumatic Scooter Wheel,1,$25.99,$25.99,
+8mm x 150mm Steel Rod,1,$5.99,$5.99,
+Throttle Accessory,1,$8.89,$8.89,
+14-Inch Suspension Fork,1,$35.29,$35.29,
+37mm Headset Bearings,1,$9.99,$9.99,
+4-Line I2C LCD Display (3),1,$16.82,$16.82,better value than a 1-pack + just in case something goes wrong
+Flex Seal,1,$14.98,$14.98,Will purchase physically at home depot
+Variable PVC Pipe,1,$20.00,$20.00,Will purchase physically at home depot
+Variable Plywood,1,$20.00,$20.00,Will purchase physically at home depot
+Wires and Connectors,1,$10.00,$10.00,"primarily JST-SM connectors, jumper wires, bullet-spade connectors. will purchase as needed"
+"Screws, Nuts, Bolts",1,$10.00,$10.00,mostly already owned. Will purchase physically at home depot
+TOTAL,14,$29.31,$410.27,
+,,,,
+"I already own some necessary parts for this project (arduino, etc) - these are not included in the BOM!",,,,
+I will also gladly pay any surplus costs above the grant amount!,,,,
