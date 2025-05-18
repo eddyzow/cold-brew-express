@@ -14,9 +14,7 @@ here's what the internals look like:
 
 inside are the battery and controller, which will be mounted in foam. the wires for the motor (rear) will likely be routed through a drilled hole between the rear motor fork and the base, or through the bottom of the base. i've decided that once i start putting the scooter together, i'll decide on things like that.
 
-in the front is a suspension fork that will give the scooter a smoother ride. i've also mounted a display module, which i will be making myself using a 3.2" Adafruit TFT LCD. this board actually has a touchscreen, so i might be able to simply control the scooter using just a throttle, brake, and change other controls along the way. 
-
-the arduino will also be mounted in the bottom of the scooter. i'm going to need some long ass jumper wires LMFAO
+in the front is a suspension fork that will give the scooter a smoother ride. the display will be a standard 4 line character LCD instead of a full-fledged TFT display since i realized i will need to work with some extremely complicated electronics that i don't have the experience for at the moment. the arduino will also be mounted in the bottom of the scooter. i'm going to need some long ass jumper wires LMFAO
 
 i still don't know how fast the scooter will get, but i'm hoping that it will do 15mph. 
 
