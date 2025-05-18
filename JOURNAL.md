@@ -1,10 +1,30 @@
-total time spent (research, development, design, building, etc): approx. 16 hours
+total time spent (research, development, design, building, etc): approx. 19 hours
+
+# hack club highway journal entry 6 (5/18/25)
+## cad done!
+
+![image](https://github.com/user-attachments/assets/7f137751-45b0-483e-bb49-27f31a800087)
+
+i believe i've cadded the entirety of the main frame of the scooter! yes, i haven't added things like the throttle but these are parts that are added to the scooter later.
+wiring will be taped down the side of the handlebar with electrical tape and routed through the hole in the neck between the head tube and the base.
+
+here's what the internals look like:
+
+![image](https://github.com/user-attachments/assets/3bebbeaa-2e9e-4d9b-9dad-08d86f7ce169)
+
+inside are the battery and controller, which will be mounted in foam. the wires for the motor (rear) will likely be routed through a drilled hole between the rear motor fork and the base, or through the bottom of the base. i've decided that once i start putting the scooter together, i'll decide on things like that.
+
+in the front is a suspension fork that will give the scooter a smoother ride. i've also mounted a display module, which i will be making myself using a 3.2" Adafruit TFT LCD. this board actually has a touchscreen, so i might be able to simply control the scooter using just a throttle, brake, and change other controls along the way. 
+
+the arduino will also be mounted in the bottom of the scooter. i'm going to need some long ass jumper wires LMFAO
+
+i still don't know how fast the scooter will get, but i'm hoping that it will do 15mph. 
 
 # hack club highway journal entry 5 (5/17/25)
 ## cad almost done
 
 the CAD is almost done! i ran into a few problems that i've fixed:
-- the handlebars are not sized to align with the fork (OD 30mm). i fixed this by custom-creating my own #D printed "clamp" that will just be superglued to the fork. since i have no interest in folding up the scooter, this will work fine
+- the handlebars are not sized to align with the fork (OD 30mm). i fixed this by custom-creating my own 3D printed "clamp" that will just be superglued to the fork. since i have no interest in folding up the scooter, this will work fine
 - ![image](https://github.com/user-attachments/assets/94a2a339-0de7-4925-91de-6de63c0e34b5)
 - i've realized that i needed to CAD the dashboard with the display.
 
