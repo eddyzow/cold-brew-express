@@ -6,14 +6,14 @@ start date: 5/14/2025
 total time spent so far: (research, development, design) not including building: approx. 21 hours
 (yes this is an average of like 7 hours a day)
 
-since the design is such a small part of this project in comparison to actually putting the scooter together, i will be receiving 6 points for the design and 4 points for creating a working version!
+since the design is such a small part of this project in comparison to actually putting the scooter together, i will be receiving 6 points for the design and 4 points for creating a working scooter!
 
 # hack club highway journal entry 6 (5/18/25)
-## cad done!
+## cad is done!
 
 ![image](https://github.com/user-attachments/assets/7f137751-45b0-483e-bb49-27f31a800087)
 
-i believe i've cadded the entirety of the main frame of the scooter! yes, i haven't added things like the throttle but these are parts that are added to the scooter later.
+i believe i've cadded the entirety of the main frame of the scooter! yes, i haven't added things like the throttle but these are the parts that are added to the scooter later as accessories.
 wiring will be taped down the side of the handlebar with electrical tape and routed through the hole in the neck between the head tube and the base.
 
 here's what the internals look like:
@@ -24,9 +24,9 @@ inside are the battery and controller, which will be mounted in foam. the wires 
 
 in the front is a suspension fork that will give the scooter a smoother ride. the display will be a standard 4 line character LCD instead of a full-fledged TFT display since i realized i will need to work with some extremely complicated electronics that i don't have the experience for at the moment. the arduino will also be mounted in the bottom of the scooter. i'm going to need some long ass jumper wires LMFAO
 
-i still don't know how fast the scooter will get, but i'm hoping that it will do 15mph. 
+i still don't know how fast the scooter will get, but i'm hoping that it will do 15mph. i'm legally bound to go under 20mph anyways
 
-i'll now be submitting this to the hack club overlords and going off to continue my neighborhood game!
+i'll now be submitting this to the hack club overlords and going off to continue my neighborhood game! i should add that i'm not very experienced with cad and have only in the past imported existing gobilda files and just mated them all together with a minimally designed chassis :sob:
 
 # hack club highway journal entry 5 (5/17/25)
 ## cad almost done
