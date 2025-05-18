@@ -1,4 +1,5 @@
 total time spent (research, development, design, building, etc): approx. 21 hours
+(yes this is an average of like 7 hours a day)
 
 # hack club highway journal entry 6 (5/18/25)
 ## cad done!
