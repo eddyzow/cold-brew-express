@@ -1,4 +1,4 @@
-total time spent (research, development, design, building, etc): approx. 19 hours
+total time spent (research, development, design, building, etc): approx. 21 hours
 
 # hack club highway journal entry 6 (5/18/25)
 ## cad done!
