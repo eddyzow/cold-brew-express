@@ -1,4 +1,12 @@
-total time spent (research, development, design, building, etc): approx. 14 hours
+total time spent (research, development, design, building, etc): approx. 16 hours
+
+# hack club highway journal entry 5 (5/17/25)
+## cad almost done
+
+the CAD is almost done! i ran into a few problems that i've fixed:
+- the handlebars are not sized to align with the fork (OD 30mm). i fixed this by custom-creating my own #D printed "clamp" that will just be superglued to the fork. since i have no interest in folding up the scooter, this will work fine
+- ![image](https://github.com/user-attachments/assets/94a2a339-0de7-4925-91de-6de63c0e34b5)
+- i've realized that i needed to CAD the dashboard with the display.
 
 # hack club highway journal entry 4 (5/17/25)
 ## it's coming together!
