@@ -3,10 +3,14 @@ _can i get a medium raspberry watermelon refresher with sparkling water instead 
 
 start date: 5/14/2025
 
-total time spent so far: (research, development, design) not including building: approx. 21 hours
-(yes this is an average of like 7 hours a day)
+total time spent so far: 23 hrs
 
-since the design is such a small part of this project in comparison to actually putting the scooter together, i will be receiving 6 points for the design and 4 points for creating a working scooter!
+# entry 7 (6/8/25)
+## parts received!
+
+parts have been received for the cold brew express! i'm printing all the 3D printed stuff as I type this -- the last thing to do is to go to home depot and get some plywood, then construct! 
+
+there have been some errors in my planning -- the suspension fork I bought does not have any spring force and also isn't hollow at the top. it's also a little smaller than i expected. i will try to get around that. i wired up the wheel and it seems to work pretty well! the battery works great and the wheel is indeed pretty fast, with high torque. 
 
 # hack club highway journal entry 6 (5/18/25)
 ## cad is done!
