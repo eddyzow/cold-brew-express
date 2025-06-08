@@ -12,6 +12,8 @@ parts have been received for the cold brew express! i'm printing all the 3D prin
 
 there have been some errors in my planning -- the suspension fork I bought does not have any spring force and also isn't hollow at the top. it's also a little smaller than i expected. i will try to get around that. i wired up the wheel and it seems to work pretty well! the battery works great and the wheel is indeed pretty fast, with high torque. 
 
+*time spent for this session: 2 hrs*
+
 # hack club highway journal entry 6 (5/18/25)
 ## cad is done!
 
