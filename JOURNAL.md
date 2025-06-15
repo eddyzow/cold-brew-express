@@ -3,7 +3,19 @@ _can i get a medium raspberry watermelon refresher with sparkling water instead 
 
 start date: 5/14/2025
 
-total time spent so far: 23 hrs
+total time spent so far: 29 hrs
+
+# entry 8 (6/15/25)
+
+re-designed some parts today and planned out how i'm going to build the scooter! here's a picture taken by the camera onboard my bambu p1s:
+
+![image](https://github.com/user-attachments/assets/615c18d6-749b-4bd8-a2ad-afee3adaeb2c)
+
+... and one of the redesigned parts. this will make the weight distribution more compressive. PLA has a quite strong compression resistance, so I bet that 3d-printed parts will be able to do the trick here!
+
+i'm going to put the scooter together in the coming days :D
+
+time spent: about 6 hrs
 
 # entry 7 (6/8/25)
 ## parts received!
