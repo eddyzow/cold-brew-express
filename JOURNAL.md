@@ -13,6 +13,8 @@ re-designed some parts today and planned out how i'm going to build the scooter!
 
 ... and one of the redesigned parts. this will make the weight distribution more compressive. PLA has a quite strong compression resistance, so I bet that 3d-printed parts will be able to do the trick here!
 
+![image](https://github.com/user-attachments/assets/e1c42a51-4526-4286-909d-7d986953d1f8)
+
 i'm going to put the scooter together in the coming days :D
 
 time spent: about 6 hrs
