@@ -1,6 +1,6 @@
 # Cold Brew Express
 
-simple and brief description: a DIY electric scooter to take me to dunkin'! features include cruise control, auto lean detection, rgb lights 🤩, and an LED display which is connected to an arduino!
+simple and brief description: a DIY electric scooter. Features include variable speed, physical brake, LCD display powered by arduino.
 
 For links to products in the BOM, go to this google sheet: https://docs.google.com/spreadsheets/d/1F6muKYJhtXkM0ZriuXKycPCZ0PORBCmvhVav8ENI8PE/edit?usp=sharing
 
