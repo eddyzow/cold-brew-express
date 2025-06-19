@@ -1,3 +1,10 @@
+---
+title: "The Cold Brew Express"
+author: "Eddy Zhao (@eddyzow)"
+description: "A DIY electric scooter to take me to Dunkin' Donuts."
+created_at: "2025-05-14"
+---
+
 # hack club highway project 1: the cold brew express - a diy electric scooter to take me to dunkin'
 _can i get a medium raspberry watermelon refresher with sparkling water instead of green tea?_
 
