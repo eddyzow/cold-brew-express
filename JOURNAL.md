@@ -12,6 +12,14 @@ start date: 5/14/2025
 
 total time spent so far: 29 hrs
 
+# entry 9 (6/19/25)
+
+i designed a lot of new parts! also, the chassis is officially built... just some wiring and testing left to do.
+
+![image](https://github.com/user-attachments/assets/9369cece-8a2c-40e0-a4bc-4d30c8670f95)
+
+i think that getting the LCD screen incorporated may not be feasible at this moment -- my prime goal is to make sure it drives!
+
 # entry 8 (6/15/25)
 
 re-designed some parts today and planned out how i'm going to build the scooter! here's a picture taken by the camera onboard my bambu p1s:
