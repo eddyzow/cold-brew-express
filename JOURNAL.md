@@ -10,7 +10,19 @@ _can i get a medium raspberry watermelon refresher with sparkling water instead 
 
 start date: 5/14/2025
 
-total time spent so far: 29 hrs
+total time spent so far: 36 hrs
+
+# entry 10 (6/29/25)
+
+lots has happened since the last entry... firstly the controller i bought broke (either due to it being bad or me making a mistake), so i had to buy a new one. thankfully, the new one is good, but i need to watch my wiring.
+
+i'm rethinking adding a screen to the scooter. i think it's unnecessary because the throttle i bought has a screen by itself, but maybe just adding a screen for the cool factor could do pretty good. i might be able to use the 5v power supply from the motor controller to power the arduino.
+
+with this sudden realization i discovered that i accidentally plugged in a red wire to the green self-learning plug a few days ago... this might have been what caused the first controller to break. upon reading the datasheet a second time, this red wire (not red in the diagram) actually is connected to the full 36V of the battery!! that means i gave a low-voltage self-learning wire 36 volts and probably fried the controller from there. 
+
+anyways, since the motor works now, i'm going to start putting the final touches together before i flex seal and paint this baby. then, i'm going to ride it around my driveway in a video for proof before submitting it!! after i submit this and my other pull request for my pcb business card (already done) is merged, i'll have 33 highway points!! and there is one more project i wish to do before i leave for undercity -- if i can finish it on time, i'll have 40 points :)
+
+*time spent during session: 7 hours*
 
 # entry 9 (6/19/25)
 
