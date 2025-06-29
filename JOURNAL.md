@@ -20,7 +20,7 @@ i'm rethinking adding a screen to the scooter. i think it's unnecessary because 
 
 with this sudden realization i discovered that i accidentally plugged in a red wire to the green self-learning plug a few days ago... this might have been what caused the first controller to break. upon reading the datasheet a second time, this red wire (not red in the diagram) actually is connected to the full 36V of the battery!! that means i gave a low-voltage self-learning wire 36 volts and probably fried the controller from there. 
 
-anyways, since the motor works now, i'm going to start putting the final touches together before i flex seal and paint this baby. then, i'm going to ride it around my driveway in a video for proof before submitting it!! after i submit this and my other pull request for my pcb business card (already done) is merged, i'll have 33 highway points!! and there is one more project i wish to do before i leave for undercity -- if i can finish it on time, i'll have 40 points :)
+anyways, since the motor works now, i'm going to start putting the final touches together before i flex seal and paint this baby. then, i'm going to ride it around my driveway in a video for proof before submitting it!! unfortunately my parents have forbade me from riding it on public roads (and it's illegal since my permit expired) so i can't go to dunkin with it. after i submit this and my other pull request for my pcb business card (already done) is merged, i'll have 33 highway points!! and there is one more project i wish to do before i leave for undercity -- if i can finish it on time, i'll have 40 points :)
 
 *time spent during session: 7 hours*
 
