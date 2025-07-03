@@ -30,7 +30,7 @@ the scooter's also super super super super sensitive. i think it could actually 
 
 while the scooter's still intact, i got some pictures of the scooter.
 
-tomorrow i'll record a demo of the scooter working, but not actualy ride it. if it breaks, then we will consider it a lesson learned. I'll fix it eventually, but undercity is in 9 days and i need to submit this before i leave since i won't be back until highway is nearly over.
+tomorrow i'll record a demo of the scooter working, but not actualy ride it. if it breaks, then we will consider it a lesson learned. I'll fix it eventually, but undercity is in 9 days and i need to submit this before i leave since i won't be back until highway is nearly over. i'll probably wait until "eventually" to paint the scooter as well
 
 *time spent during session: 6 hours*
 
