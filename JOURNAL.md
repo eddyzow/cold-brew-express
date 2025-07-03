@@ -10,7 +10,29 @@ _can i get a medium raspberry watermelon refresher with sparkling water instead 
 
 start date: 5/14/2025
 
-total time spent so far: 36 hrs
+total time spent so far: 42 hrs
+
+# entry 11 (7/2/25)
+
+three home depot trips, multiple PVC pipes, duct tape, wires, and many scares later, the scooter is FUNCTIONAL!!
+
+![image](https://github.com/user-attachments/assets/571f11eb-b096-4df4-93e9-7ca05016a341)
+
+unfortunately the weight distribution is completely messed up and the scooter has the tendency to do wheelies before actually driving.
+
+nonetheless i'm counting this a success! the battery and controller mounted at the bottom of the scooter. 
+
+i'm so scared the scooter is going to break when i stand on it, so i'm probably not going to make a video of me riding it around. in hindsight I should have printed the head/neck collar with PETG or PLA-CF at the least but it seems like normal PLA is sort of holding up. i replaced multiple parts during the entire process.
+
+the scooter's also super super super super sensitive. i think it could actually go like 20mph at max speed but i'd have to lean forward and put my weight all the way in as front as possible, but the weakest part of the scooter is just behind the front:
+
+![image](https://github.com/user-attachments/assets/5a1267ef-5118-416c-80c2-2a3349a934c0)
+
+while the scooter's still intact, i got some pictures of the scooter.
+
+tomorrow i'll record a demo of the scooter working, but not actualy ride it. if it breaks, then we will consider it a lesson learned. I'll fix it eventually, but undercity is in 9 days and i need to submit this before i leave since i won't be back until highway is nearly over.
+
+*time spent during session: 6 hours*
 
 # entry 10 (6/29/25)
 
