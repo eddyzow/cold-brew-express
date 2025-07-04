@@ -10,7 +10,15 @@ _can i get a medium raspberry watermelon refresher with sparkling water instead 
 
 start date: 5/14/2025
 
-total time spent so far: 42 hrs
+total time spent so far: 43 hrs
+
+# entry 12 (7/3/25)
+
+and with that, the cold brew express is done! while it's not polished, i feel that i can submit becuase it is functionally "sound," i've learned all electronics and engineering that i needed for the project, and i can paint it at any time.
+
+here's a video of me riding it: https://youtu.be/ShZDwHqLemY?si=LHhTyD6iNOCNyVUB
+
+*time spent during session: 1 hour*
 
 # entry 11 (7/2/25)
 
