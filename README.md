@@ -1,6 +1,6 @@
 # Cold Brew Express
 
-simple and brief description: a DIY electric scooter. Features include variable speed, physical brake, LCD display powered by arduino.
+a DIY electric scooter! Features include variable speed, handlebar throttle, physical brake (not connected in the video), suspension fork for weight distribution, fast top speed, and backlit display for battery.
 
 For links to products in the BOM, go to this google sheet: https://docs.google.com/spreadsheets/d/1F6muKYJhtXkM0ZriuXKycPCZ0PORBCmvhVav8ENI8PE/edit?usp=sharing
 
